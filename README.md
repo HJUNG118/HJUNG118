@@ -14,6 +14,9 @@
 
 <a href="https://hjyim.tistory.com" target="_blank"><img src="https://img.shields.io/static/v1?label=&amp;message=tistory&amp;color=20C997&amp;style=for-the-badge&amp;logo=velog&amp;logoColor=white"/></a>
 
+# :mailbox_with_mail: Contacts
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a38722243@gmail.com)](mailto:a38722243@gmail.com)
 
   </div>
 
